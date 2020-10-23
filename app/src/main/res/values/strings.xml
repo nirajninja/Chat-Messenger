@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">whatsapp</string>
+    <string name="verify_number">Verify %s</string>
+    <string name="Waiting_text">Waiting to automatically detect an SMS sent to Wrong Number?</string>
+    <string name="wait">Waiting to automatically detect an SMS sent to Wrong Number?</string>
+    <string name="Waiting">Waiting to automatically detect an SMS sent to %s Wrong Number</string>
+    <string name="second_remaining">Seconds Remaining: %d</string>
+    <string name="monday" />
+    <string name="tuesday" />
+    <string name="wednesday" />
+    <string name="thursday" />
+    <string name="friday" />
+    <string name="saturday" />
+    <string name="today" />
+    <string name="yesterday" />
+    <string name="sunday" />
+    <string name="like_message" />
+</resources>
